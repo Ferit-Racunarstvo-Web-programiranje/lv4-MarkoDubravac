@@ -2,6 +2,10 @@
 
 U ovoj vježbi zadatak je nadodati dinamičke fukncionalnosti u web stranicu koristeći znanja JavaScripta, HTML-a iz prethodnih vježbi i povezati ih s PHP-om. U repozitoriju se nalaze datoteke `index.html` i `style.css` u kojima se nalazi osnovni kostur stranice za web trgovinu (iz prošle vježbe). U datoteci `script.js` nalazi se početna točka za JavaScript iz prethodne vježbe. Potrebno je koristiti sve do sada naučeno, kako biste ostvarili funkcionalnosti. Sve dokumente i foldere s lokalne strane postaviti na github u main branch.
 
+## Upute za korištenje
+
+Napraviti bazu podataka fruits_db kroz sučelje phpmyadmin. Nakon što ste kreirali bazu podataka importajte tablicu fruits.sql, tako da kad imate izabranu bazu fruits_db u alatnoj traci (prvi vrhu ekrana) izaberite import opciju. Uploadajte fruits.sql dokument, a sve ostalo ostavite predefinirano te pritisnite create table. Tablica bi sada trebala biti kreirana te bi ste trebali moći pristupiti stranici.
+
 ## Kako raditi s PHP-om, MySQL-om, JavaScriptom, HTML-om i CSS-om koristeći XAMPP
 
 1. Preuzmite i instalirajte XAMPP sa službene web stranice.
